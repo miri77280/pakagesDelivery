@@ -1,0 +1,24 @@
+
+
+.leftDiv{
+    width: 30%;
+    text-align: left;
+    margin: 50px 0 0 50px;
+   }
+   
+
+   .rightDiv{
+    width: 30%;
+    text-align: left;
+    margin: 50px 0 0 50px;
+    float: right;
+   }
+
+   .upContent{
+    display: flex;
+    justify-content: space-between;
+   }
+  
+   .price{
+       background-color: lightgray;
+   }

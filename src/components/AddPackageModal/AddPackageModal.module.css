@@ -1,0 +1,21 @@
+
+.form{
+   
+       width: 80%;
+}
+
+.btn{
+    margin: 5px;
+    background-color: blue;
+    color: white;
+}
+
+.form input{
+  width: 250px;
+  height: 30px;
+  margin: 5px;
+}
+
+form div{
+    display: inline-block;
+}
